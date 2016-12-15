@@ -82,6 +82,6 @@ width:110px;
 }
 
 /* 下雪了~~~~~ */
-.snowbg{width:1000px;height:600px;clear:both;margin:0 auto;position:relative;overflow:hidden;}
+.snowbg{width:100%;height:100%;clear:both;margin:0 auto;position:relative;overflow:hidden;}
 
 .snow{position:absolute;top:0;color:#fff;}
